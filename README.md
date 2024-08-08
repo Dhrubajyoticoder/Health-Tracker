@@ -62,7 +62,7 @@ To generate a new component, use the following command:
 
 ng generate component component-name
 </p>
-You can also use:
+You can also use:https://github.com/Dhrubajyoticoder/Health-Tracker
 <p>
 ng generate directive|pipe|service|class|guard|interface|enum|module </p>
 
