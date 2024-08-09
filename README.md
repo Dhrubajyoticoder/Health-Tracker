@@ -75,6 +75,9 @@ ng build
 
 </p>
 
+## Code Coverage
 
+The project has 100% code coverage for the tested component and service. The detailed code coverage report can be found in the `/coverage` directory.
 
+!Code Coverage Report
 
